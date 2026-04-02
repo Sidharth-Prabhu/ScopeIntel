@@ -8,23 +8,23 @@
 *Placeholder for your screenshots - Replace with actual paths once captured*
 
 ### 1. Unified Security Dashboard
-![Dashboard Placeholder](https://via.placeholder.com/1200x600?text=ScopeIntel+Unified+Security+Dashboard)
+![Dashboard Placeholder](https://github.com/Sidharth-Prabhu/ScopeIntel/blob/main/screenshots/screenshot1.jpeg)
 *A high-level overview of the organization's digital footprint, featuring real-time scan progress, asset counts, and prioritized risk metrics.*
 
 ### 2. Interactive Infrastructure Map
-![Network Map Placeholder](https://via.placeholder.com/1200x600?text=ScopeIntel+Interactive+Infrastructure+Map)
+![Network Map Placeholder](https://github.com/Sidharth-Prabhu/ScopeIntel/blob/main/screenshots/screenshot2.jpeg)
 *A D3-powered force-directed graph visualizing the relationships between root domains, subdomains, and IP addresses with animated data-packet flows.*
 
 ### 3. Intelligent Node Discovery & Search
-![Search Placeholder](https://via.placeholder.com/1200x600?text=ScopeIntel+Live+Node+Search)
+![Search Placeholder](https://github.com/Sidharth-Prabhu/ScopeIntel/blob/main/screenshots/screenshot3.jpeg)
 *Real-time search and click-to-focus capabilities allowing analysts to instantly isolate and inspect specific assets within complex network environments.*
 
 ### 4. Technical Risk Intelligence
-![Risk Report Placeholder](https://via.placeholder.com/1200x600?text=ScopeIntel+Risk+Analysis+View)
+![Risk Report Placeholder](https://github.com/Sidharth-Prabhu/ScopeIntel/blob/main/screenshots/screenshot4.jpeg)
 *Deep analysis of vulnerabilities including CNAME Takeover detection, exposed sensitive services, and technographic stack fingerprinting.*
 
 ### 5. Board-Ready Security Audits (PDF)
-![PDF Export Placeholder](https://via.placeholder.com/1200x600?text=ScopeIntel+Professional+PDF+Export)
+![PDF Export Placeholder](https://github.com/Sidharth-Prabhu/ScopeIntel/blob/main/screenshots/screenshot5.jpeg)
 *Functionally generated, branded PDF reports featuring executive summaries and technical inventories ready for stakeholder distribution.*
 
 ---
